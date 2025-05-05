@@ -15,6 +15,6 @@ Para este projeto, o grupo deverá entregar os seguintes diagramas da UML:
 *   **Diagrama de Classes** ✅
 *   Diagrama de Objetos (opcional)
 *   Diagrama de Sequencia ✅
-*   Diagrama de Estados
+*   Diagrama de Estados ✅
 *   Diagrama de Implantação
 *   Diagrama de Componentes
