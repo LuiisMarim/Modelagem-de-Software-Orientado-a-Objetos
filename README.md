@@ -1,4 +1,4 @@
-# Modelagem-de-Software-Orientado-a-Objetos
+# Modelagem de Software Orientado a Objetos
 
 
 O projeto envolve a modelagem do sistema de controle de uma **linha de produção de uma indústria de tintas**. O objetivo é atualizar os sistemas de tecnologia da empresa, abrangendo as áreas financeira, de produção e comercial, sendo que sua equipe foi contratada para a área de produção.
